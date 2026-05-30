@@ -11,7 +11,7 @@ This project predicts the likelihood of heart disease using machine learning tec
 - Matplotlib
 
 ## Dataset
-Heart Disease UCI Dataset
+Heart Disease Dataset from kaggle
 
 ## Model
 Classification Algorithms
