@@ -1,2 +1,2 @@
 # Heart-disease-prediction
-Machine learning project to predict heart disease using patient health data
+Machine learning project to predict heart disease using patients health data
